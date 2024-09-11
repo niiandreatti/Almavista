@@ -9,11 +9,15 @@ Tkinter: Biblioteca utilizada para criar a interface gráfica.
 Pandas: Utilizada para manipulação e armazenamento de dados no arquivo Excel.
 Excel (xlsx): Armazenamento persistente dos dados cadastrados.
 ⚙️ Funcionalidades:
-Novo Cadastro: Registre clientes com informações como nome, CPF, email e telefone.
-Consulta de Cadastro: Busque clientes pelo CPF e visualize seus detalhes.
-Edição de Cadastro: Atualize informações como nome, email e telefone.
-Remoção de Cadastro: Exclua registros de clientes do sistema.
-Validação de Dados: Evita o cadastro duplicado de CPF.
+1.Novo Cadastro: Registre clientes com informações como nome, CPF, email e telefone.
+
+2.Consulta de Cadastro: Busque clientes pelo CPF e visualize seus detalhes.
+
+3.Edição de Cadastro: Atualize informações como nome, email e telefone.
+
+4.Remoção de Cadastro: Exclua registros de clientes do sistema.
+
+5.Validação de Dados: Evita o cadastro duplicado de CPF.
 
 Tela inicial:
 ![main](src/inicio.png)
