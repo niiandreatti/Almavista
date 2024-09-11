@@ -16,17 +16,17 @@ Remoção de Cadastro: Exclua registros de clientes do sistema.
 Validação de Dados: Evita o cadastro duplicado de CPF.
 
 Tela inicial:
-![main](inicio.png)
+![main](src/inicio.png)
 
 Tela de cadastro
-![Tela de cadastro](cadastro.png)
+![Tela de cadastro](src/cadastro.png)
 
 Tela de consulta de cadastro
-![Tela de consulta de cadastro](consulta.png)
+![Tela de consulta de cadastro](src/consulta.png)
 
 Tela de detalhe de cadastro
-![Tela de consulta de cadastro](detalhe.png)
+![Tela de consulta de cadastro](src/detalhe.png)
 
 Tela de edição de cadastro
-![Tela de consulta de cadastro](edicao.png)
+![Tela de consulta de cadastro](src/edicao.png)
 
